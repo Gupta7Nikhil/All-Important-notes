@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .wrapper{
+    perspective: 10px;
+}
+.temp{
+    transform-style: preserve-3d;
+}
+.gand{
+    transform: translateZ(-40px);
+} */
+/* .temp1{
+    transform: perspective(10px) translateZ(-590px);
+}
+figure{
+    transform-style: preserve-3d;
+}
+.temp{
+    transform: perspective(500px) translateZ(-490px);
+    transform: translateX(0px);
+    flex-wrap: wrap;
+    height: 397px;
+}
+
+ figure:hover ~ figcaption {
+    opacity: 1;
+    transform: scale(1.03);
+   
+} 
+figure:hover{
+    transform: scale(1.03);
+    transition: 0.5s;
+    filter: drop-shadow(0 0 10px #333); 
+}
+figcaption{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 25px;
+    width: 100%;
+    height: 20%;
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    opacity: 0;
+    border-radius: 0 0 10px 10px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5) 0%, rgba(255, 255, 255, 0) 100%);
+    transition: 0.3s;
+  }
+figure:hover ~ img {
+    filter: grayscale(0%);
+    
+} */
+
